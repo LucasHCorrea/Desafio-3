@@ -30,7 +30,7 @@ function App() {
        repository => repository.id !== id
      ))
 
-     //setRepositories(repositories)
+     
   }
 
   return (
